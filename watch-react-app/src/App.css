@@ -1,0 +1,11 @@
+.containerSlide{
+    height: 120vh;
+    width: 98vw;
+    background-color: rgb(135, 123, 123);
+    margin: 0;
+    position: absolute;
+    top: 93%;
+    z-index: -1;
+    overflow: hidden;
+    
+}
